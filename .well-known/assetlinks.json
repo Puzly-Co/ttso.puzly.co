@@ -1,0 +1,14 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "co.puzly.ttso",
+			"sha256_cert_fingerprints": [
+				"0E:DA:E8:3A:80:C1:16:83:1F:C0:21:D7:18:57:8E:A8:F4:B5:49:92:66:B0:C0:25:9B:C4:BF:85:B5:B3:A1:13"
+			]
+		}
+	}
+]
