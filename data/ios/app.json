@@ -11,9 +11,9 @@
 			"status": "beta"
 		},
 		{
-			"name": "Four-Letter Word Game",
+			"name": "Four-Letter Word Puzzle",
 			"language": "English",
-			"url": "https://apps.apple.com/app/co.puzly.folwg",
+			"url": "https://apps.apple.com/app/co.puzly.folwp",
 			"status": "beta"
 		}
 	],
@@ -27,7 +27,7 @@
 		{
 			"name": "Алты Тамгалуу Сөз Оюну",
 			"language": "Кыргызча",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.atso",
+			"url": "https://apps.apple.com/app/co.puzly.atso",
 			"status": "beta"
 		}
 	],
